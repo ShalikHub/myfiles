@@ -1,0 +1,4 @@
+#Mon Feb 19 17:16:32 EET 2018
+base.0=/Users/shaliksapkota/geolocation/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/shaliksapkota/geolocation/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
